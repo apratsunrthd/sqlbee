@@ -9,6 +9,8 @@ class sqlbee {
 
   private $error;
 
+  
+
   /**
    * Constructor; create the database connection and start a transaction.
    */
